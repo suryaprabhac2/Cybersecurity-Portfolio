@@ -52,7 +52,7 @@ The lack of proper controls increases the risk of **data exposure, system compro
 ## Visual Evidence
 
 ### Figure 1: Access Control Issue
-![access Control](./access_control.png)
+![Access Control](./access control.png)
 
 This highlights a critical control gap in access management, increasing the risk of unauthorized data access.
 
