@@ -23,10 +23,6 @@ Used Wireshark to identify SYN flood attack and TCP handshake issues
 Applied NIST CSF framework to analyze DDoS attack  
 ➡️ [View Project](./nist-incident-response)
 
-### Network Attack Comparison
-Compared ICMP vs SYN flood attacks  
-➡️ [View Project](./network-attack-analysis)
-
 ### Security Risk Assessment (GRC)
 Evaluated controls and compliance gaps  
 ➡️ [View Project](./risk-assessment-botium-toys)
