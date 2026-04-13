@@ -1,33 +1,38 @@
-# Cybersecurity Portfolio – Suryaprabha C
+# Cybersecurity Portfolio – Suryaprabha
 
 ## About Me
-Aspiring Cybersecurity Analyst with hands-on experience in network traffic analysis, incident response, and risk assessment and Linux.
+Aspiring Cybersecurity Analyst with hands-on experience in network traffic analysis, incident response, and risk assessment.
 
 ## Skills
-- Network Analysis: Wireshark, tcpdump
-- Security Concepts: DoS, SYN Flood, ICMP Flood
-- Frameworks: NIST CSF
-- GRC: Risk assessment, PCI DSS, GDPR
-- Linux , SQL 
+- Wireshark, tcpdump
+- Network Security
+- NIST CSF
+- Risk & Compliance (PCI DSS, GDPR)
 
 ## Projects
 
 ### Network Traffic Analysis
-Analyzed DNS failures using tcpdump and identified ICMP-related issues  
+Analyzed DNS failures and ICMP traffic using tcpdump  
+➡️ [View Project](./network-traffic-analysis)
 
 ### SYN Flood Attack Analysis
-Used Wireshark to detect SYN flood attack and analyze TCP handshake failures  
-
+Used Wireshark to identify SYN flood attack and TCP handshake issues  
+➡️ [View Project](./syn-flood-analysis)
 
 ### NIST Incident Response
-Applied NIST CSF to analyze DDoS attack and structured response plan  
-
+Applied NIST CSF framework to analyze DDoS attack  
+➡️ [View Project](./nist-incident-response)
 
 ### Network Attack Comparison
-Compared ICMP vs SYN flood attacks and their impact  
-
+Compared ICMP vs SYN flood attacks  
+➡️ [View Project](./network-attack-analysis)
 
 ### Security Risk Assessment (GRC)
-Evaluated controls and compliance gaps using PCI DSS & GDPR  
+Evaluated controls and compliance gaps  
+➡️ [View Project](./risk-assessment-botium-toys)
 
-I built these projects to demonstrate real-world cybersecurity analysis, including traffic inspection, attack detection, and risk assessment.
+## Key Focus
+- Threat Detection
+- Network Analysis
+- Incident Response
+- Security Risk Assessment
