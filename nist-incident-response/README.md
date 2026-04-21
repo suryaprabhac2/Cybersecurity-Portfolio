@@ -92,7 +92,7 @@ This illustrates how attackers flooded the network and caused service disruption
 
 ## Report File
 
-[Download Full Report](./Nist incident report analysis.docx)
+[Download Full Report](./NIST incident report analysis.docx)
 
 ---
 
